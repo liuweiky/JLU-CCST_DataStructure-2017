@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510034448 source:d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_02\main.cpp
+	<iostream>
+	"DisjointSet.h"
+
+1510034195 source:d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_02\src\disjointset.cpp
+	<iostream>
+	"DisjointSet.h"
+
+1510034315 d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_02\include\disjointset.h
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="工作空间">
+		<Project filename="DS_ThirdExp_01/DS_ThirdExp_01.cbp" />
+		<Project filename="DS_ThirdExp_02/DS_ThirdExp_02.cbp" />
+		<Project filename="DS_ThirdExp_GenerateRandomChar/DS_ThirdExp_GenerateRandomChar.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

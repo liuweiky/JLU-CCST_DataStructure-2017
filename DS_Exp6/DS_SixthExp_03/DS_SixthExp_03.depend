@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1511244117 source:d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_03\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1511246837 d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_03\include\quicksort.h
+
+1511244117 source:d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_03\src\ssort.cpp
+	"SSort.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1511246837 d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_03\include\ssort.h
+
+1511247559 source:d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_03\main.cpp
+	<iostream>
+	<SSort.h>
+	<QuickSort.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+

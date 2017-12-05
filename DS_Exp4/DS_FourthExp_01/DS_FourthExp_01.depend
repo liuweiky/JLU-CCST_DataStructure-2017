@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1509762174 source:d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_01\main.cpp
+	<iostream>
+	<Forest.h>
+	<Tree.h>
+
+1509755744 source:d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_01\src\tree.cpp
+	"Tree.h"
+
+1509755750 d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_01\include\tree.h
+	<stack>
+	<queue>
+	<iostream>
+
+1509757162 source:d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_01\src\forest.cpp
+	<iostream>
+	"Forest.h"
+
+1509757185 d:\codeblocksprojects\datastructureexp\ds_exp4\ds_fourthexp_01\include\forest.h
+	"Tree.h"
+	<stack>
+	<queue>
+

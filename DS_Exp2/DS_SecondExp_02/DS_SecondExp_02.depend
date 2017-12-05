@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1508675548 source:d:\codeblocksprojects\datastructureexp\ds_secondexp_02\main.cpp
+	<iostream>
+	<Queue.h>
+
+1508676162 d:\codeblocksprojects\datastructureexp\ds_secondexp_02\include\queue.h
+
+1508676162 source:d:\codeblocksprojects\datastructureexp\ds_secondexp_02\src\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1508829758 source:d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_02\main.cpp
+	<iostream>
+	<Queue.h>
+
+1508829758 d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_02\include\queue.h
+
+1508829070 source:d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_02\src\queue.cpp
+	<iostream>
+	"Queue.h"
+

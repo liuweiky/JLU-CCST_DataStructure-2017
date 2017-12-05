@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1508679446 source:d:\codeblocksprojects\datastructureexp\ds_secondexp_03\main.cpp
+	<iostream>
+	<List.h>
+
+1508681393 source:d:\codeblocksprojects\datastructureexp\ds_secondexp_03\src\list.cpp
+	<iostream>
+	"List.h"
+	"Stack.h"
+
+1508678975 d:\codeblocksprojects\datastructureexp\ds_secondexp_03\include\list.h
+
+1508679295 source:d:\codeblocksprojects\datastructureexp\ds_secondexp_03\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1508678982 d:\codeblocksprojects\datastructureexp\ds_secondexp_03\include\stack.h
+
+1508831610 source:d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_03\main.cpp
+	<iostream>
+	<List.h>
+	<string.h>
+	<string>
+
+1508770517 d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_03\include\list.h
+
+1508772277 source:d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_03\src\list.cpp
+	<iostream>
+	"List.h"
+	"Stack.h"
+
+1508829758 d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_03\include\stack.h
+
+1508829569 source:d:\codeblocksprojects\datastructureexp\ds_exp2\ds_secondexp_03\src\stack.cpp
+	"Stack.h"
+	<iostream>
+

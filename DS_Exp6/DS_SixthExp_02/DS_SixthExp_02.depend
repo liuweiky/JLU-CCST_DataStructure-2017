@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511239536 source:d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_02\main.cpp
+	<iostream>
+	<SSort.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1511185032 source:d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_02\src\ssort.cpp
+	"SSort.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1511184340 d:\codeblocksprojects\datastructureexp\ds_exp6\ds_sixthexp_02\include\ssort.h
+

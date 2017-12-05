@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509423300 source:d:\codeblocksprojects\datastructureexp\ds_exp3\ds_thirdexp_01\main.cpp
+	<iostream>
+	<BinaryTree.h>
+
+1509433471 source:d:\codeblocksprojects\datastructureexp\ds_exp3\ds_thirdexp_01\src\binarytree.cpp
+	<iostream>
+	<queue>
+	"BinaryTree.h"
+
+1509216230 d:\codeblocksprojects\datastructureexp\ds_exp3\ds_thirdexp_01\include\binarytree.h
+

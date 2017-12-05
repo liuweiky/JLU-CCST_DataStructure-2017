@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509426973 source:d:\codeblocksprojects\datastructureexp\ds_exp3\ds_thirdexp_generaterandomchar\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
